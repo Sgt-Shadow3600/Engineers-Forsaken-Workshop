@@ -1,0 +1,13 @@
+{
+  "item.engineer.rogue_engineer_spawn_egg": "Rouge Engineer Spawn Egg",
+  "item.engineer.command_slate": "Engineer Remote",
+  "block.engineer.operations_terminal": "Engineers Temporal Chamber",
+  "block.engineer.logic_core": "Engineer Logic Core",
+  "entity.engineer.engineer_companion": "Engineer",
+  "block.engineer.resonance_disruptor": "Resonance Disruptor",
+  "block.engineer.soundproof_glass": "Soundproof Glass",
+  "block.engineer.soundproof_tinted_glass": "Soundproof Tinted Glass",
+  "block.engineer.spatial_anchor": "Spatial Anchor",
+  "item.engineer.echo_sentinel": "Echo Sentinel",
+  "item.engineer.echo_sentinel_spawn_egg": "Echo Sentinel Spawn Egg"
+}

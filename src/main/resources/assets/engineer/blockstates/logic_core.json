@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "engineer:block/logic_core"
+    }
+  }
+}

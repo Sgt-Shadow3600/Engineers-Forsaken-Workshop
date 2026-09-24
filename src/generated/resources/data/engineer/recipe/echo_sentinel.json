@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "minecraft:copper_block"
+    },
+    "H": {
+      "item": "minecraft:shulker_shell"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "S": {
+      "item": "minecraft:sculk_sensor"
+    }
+  },
+  "pattern": [
+    "NHN",
+    "CSC",
+    "NCN"
+  ],
+  "result": {
+    "count": 1,
+    "id": "engineer:echo_sentinel"
+  }
+}

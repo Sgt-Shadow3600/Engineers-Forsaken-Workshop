@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "defeated_rogue": {
+      "conditions": {
+        "items": [
+          {
+            "items": "engineer:logic_core"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "engineer:logic_core"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "defeated_rogue"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "engineer:logic_core"
+    ]
+  }
+}

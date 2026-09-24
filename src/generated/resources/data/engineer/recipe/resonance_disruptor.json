@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "C": {
+      "item": "minecraft:chiseled_copper"
+    },
+    "E": {
+      "item": "minecraft:echo_shard"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "P": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "X": {
+      "item": "minecraft:sculk_shrieker"
+    }
+  },
+  "pattern": [
+    "NCN",
+    "PXP",
+    "ERE"
+  ],
+  "result": {
+    "count": 1,
+    "id": "engineer:resonance_disruptor"
+  }
+}

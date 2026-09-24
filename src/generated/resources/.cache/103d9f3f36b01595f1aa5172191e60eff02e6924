@@ -1,0 +1,7 @@
+// 1.21.1	2026-03-18T11:37:18.1570287	Registries
+7a8c1465d374614e105bcb40cfa9cd478fdfee50 data/engineer/worldgen/structure/engineers_workshop.json
+67b5b3b3d852cf88d351d19672c01a6fdffc402d data/engineer/worldgen/structure_set/engineers_workshop.json
+84fa86bf1403cd710fe637fdd98666d1618ec218 data/engineer/worldgen/template_pool/engineers_workshop_lower.json
+f5e8c593226a6a03ee72cdc77578bb511c82bf63 data/engineer/worldgen/template_pool/engineers_workshop_middle_1.json
+b2fdf4d7dbd5296724c814b751eaa8fef02ec42a data/engineer/worldgen/template_pool/engineers_workshop_middle_2.json
+ceb06c14128719ac1cc60e2c81674d4fa790ac6f data/engineer/worldgen/template_pool/engineers_workshop_upper.json

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+    "S": {
+      "item": "minecraft:sculk_sensor"
+    }  },
+  "pattern": [
+    "GSG",
+    "CRC",
+    "CEC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "engineer:command_slate"
+  }
+}

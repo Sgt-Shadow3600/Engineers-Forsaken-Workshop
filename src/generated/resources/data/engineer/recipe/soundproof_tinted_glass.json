@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "T": {
+      "item": "minecraft:tinted_glass"
+    },
+    "W": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "WTW",
+    "WWW"
+  ],
+  "result": {
+    "count": 1,
+    "id": "engineer:soundproof_tinted_glass"
+  }
+}
