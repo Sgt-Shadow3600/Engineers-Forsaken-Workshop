@@ -7,7 +7,7 @@ import com.sgt_shadow3600.engineer.inventory.ModMenus;
 import com.sgt_shadow3600.engineer.block.TerminalBlock;
 import com.sgt_shadow3600.engineer.block.TerminalBlockEntity;
 import com.sgt_shadow3600.engineer.block.ResonanceDisruptorBlock;
-import com.sgt_shadow3600.engineer.block.ResonanceDisruptorBlockEntity;
+import com.sgt_shadow3600.engineer.entity.ResonanceDisruptorBlockEntity;
 import com.sgt_shadow3600.engineer.item.CommandSlateItem;
 import com.sgt_shadow3600.engineer.item.EchoSentinelItem;
 import net.minecraft.core.registries.BuiltInRegistries;

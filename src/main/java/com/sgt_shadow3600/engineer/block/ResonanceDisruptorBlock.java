@@ -1,6 +1,7 @@
 package com.sgt_shadow3600.engineer.block;
 
 import com.mojang.serialization.MapCodec;
+import com.sgt_shadow3600.engineer.entity.ResonanceDisruptorBlockEntity;
 import net.minecraft.core.BlockPos;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.world.entity.Entity;

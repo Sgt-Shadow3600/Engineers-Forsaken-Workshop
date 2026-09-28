@@ -1,4 +1,4 @@
-package com.sgt_shadow3600.engineer.block;
+package com.sgt_shadow3600.engineer.entity;
 
 import com.sgt_shadow3600.engineer.EngineerCompanion;
 import net.minecraft.core.BlockPos;
